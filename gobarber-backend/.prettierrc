@@ -1,0 +1,11 @@
+{
+  "singleQuote": true,
+
+  "trailingComa": "es5",
+
+  "semicolons": true,
+
+  "endOfLine": "auto",
+
+  "semi": true
+}
